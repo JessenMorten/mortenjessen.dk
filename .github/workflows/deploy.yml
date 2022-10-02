@@ -29,6 +29,9 @@ jobs:
     
     - name: Copy index.html for 404-page
       run: cp dist/index.html dist/404.html
+    
+    - name: Add .nojekyll file
+      run: touch dist/.nojekyll
       
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
