@@ -1,8 +1,6 @@
 # mortenjessen.dk
 
-## TODO
-
-- https://swimburger.net/blog/dotnet/how-to-deploy-aspnet-blazor-webassembly-to-github-pages
+[![Deploy](https://github.com/JessenMorten/mortenjessen.dk/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/JessenMorten/mortenjessen.dk/actions/workflows/deploy.yml)
 
 ## How to develop
 
